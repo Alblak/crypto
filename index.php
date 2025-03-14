@@ -41,7 +41,7 @@
                 <center>Pour chiffrer et dechiffrer les messages </center>
             </div>
             <div class="col-12">
-                <center><a class="btn btn-danger" href="views/admin.php">CLiquer ici </a></center>
+                <center><a class="btn btn-danger" href="viewss/admin.php">CLiquer ici </a></center>
             </div>
    
                   
